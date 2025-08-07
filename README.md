@@ -1,0 +1,2 @@
+# Demand-Forecasting-for-Retail-Store-using-Machine-Learning
+This project focuses on predicting future product sales in a retail store using historical data and machine learning models. The goal is to help store managers optimize inventory and enhance overall operational efficiency. The project explores data preprocessing and model training using algorithms such as Linear Regression, XGBoost, and LSTM.
